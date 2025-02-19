@@ -96,6 +96,11 @@ p
 
     letter-spacing: .02em;
 }
+li
+{
+    margin-top: 2ex;
+    margin-bottom: 3ex;
+}
 
 a,
 a:hover,
