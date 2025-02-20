@@ -101,6 +101,9 @@ li
     margin-top: 2ex;
     margin-bottom: 3ex;
 }
+li.white {
+	color: #333;
+}
 
 a,
 a:hover,
